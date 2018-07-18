@@ -1,0 +1,15 @@
+#test {
+	background: #F2F2F2;
+}
+
+#test {
+}
+
+#test li {
+	font-size: 28px;
+	color: rgb(87, 87, 87);
+	white-space: nowrap;
+	list-style: none;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
